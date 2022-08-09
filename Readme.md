@@ -1,9 +1,3 @@
-# NativeBase Expo Template
+# The Tikaram Food Delivery App
 
-The official NativeBase template for [Expo](https://docs.expo.io/)
-
-## Usage
-
-```sh
-expo init my-app --template @native-base/expo-template
-```
+the app is for Food delivery riders 

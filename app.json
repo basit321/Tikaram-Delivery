@@ -23,7 +23,9 @@
       "adaptiveIcon": {
         "foregroundImage": "./assets/adaptive-icon.png",
         "backgroundColor": "#FFFFFF"
-      }
+      },
+      "softwareKeyboardLayoutMode": "pan",
+      "package": "com.ab967464.Deliverytikaram"
     },
     "web": {
       "favicon": "./assets/favicon.png"
